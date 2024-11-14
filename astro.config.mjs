@@ -4,6 +4,6 @@ import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: 'https://juliancast11.github.io',
-  base: 'juliancast11.github.io',
+  base: 'JulianCast11.github.io',
   integrations: [tailwind()],
 });
